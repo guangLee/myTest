@@ -1,4 +1,4 @@
-package com.lihg.thread;
+package com.thread;
 /**
  * Description:
  * 死锁是指两个或者以上的进程在执行过程中,

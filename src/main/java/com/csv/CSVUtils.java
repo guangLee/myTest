@@ -1,4 +1,4 @@
-package com.lihg.csv;
+package com.csv;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

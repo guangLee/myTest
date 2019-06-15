@@ -1,4 +1,4 @@
-package com.lihg.thread;
+package com.thread;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.TimeUnit;

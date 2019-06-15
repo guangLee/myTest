@@ -1,4 +1,4 @@
-package com.lihg.test;
+package com.test;
 
 import java.util.concurrent.TimeUnit;
 

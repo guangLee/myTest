@@ -1,4 +1,4 @@
-package com.lihg.thread;
+package com.thread;
 /**
  * 传统的生产者消费者模式
  * ShareData类中用Condition的await()和signal()方法进行线程通信，实现等待唤醒机制

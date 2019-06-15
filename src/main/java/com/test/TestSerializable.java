@@ -1,4 +1,4 @@
-package com.lihg.test;
+package com.test;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

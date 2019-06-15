@@ -1,4 +1,4 @@
-package com.lihg.recover;
+package com.recover;
 
 import java.security.MessageDigest;
 
