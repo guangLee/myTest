@@ -1,7 +1,7 @@
 package com.thread;
 
 /**
- * 一个线程安全的懒汉式单例模式,适用于面试
+ * 一个线程安全的禁止指令重排的懒汉式单例模式,适用于面试
  * @Author lihg
  */
 public class Singleton {
