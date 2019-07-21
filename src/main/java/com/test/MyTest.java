@@ -8,8 +8,7 @@ import java.util.Date;
 import com.util.MyUtil;
 
 public class MyTest {
-
-
+//    再次测试下
     public static void main(String[] args) {
 
         MyBank m = new MyBank();
