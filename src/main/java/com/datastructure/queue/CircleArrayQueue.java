@@ -4,6 +4,7 @@ package com.datastructure.queue;
  * 环形队列的下标移动，是挺有逻辑思维含量的
  * 需要动脑筋好好想一下它的运转，最好在纸上一步一步模拟，哈哈
  * 取余 是为了 数组的下标值 始终都小于 数组的size
+ * @Author lihg
  */
 public class CircleArrayQueue {
 
