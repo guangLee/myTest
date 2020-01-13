@@ -138,7 +138,6 @@ public class SingleLinkedListDemo {
 			cur = cur.next;
 		}
 		return cur;
-
 	}
 
 	//方法：获取到单链表的节点的个数(如果是带头结点的链表，需求不统计头节点)
