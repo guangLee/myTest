@@ -1,7 +1,5 @@
 package com.fork;
 
-import org.junit.Test;
-
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.ForkJoinTask;
 import java.util.stream.LongStream;
@@ -40,7 +38,6 @@ public class ForkJoinWorkDemo {
         //invoke = -5340232216128654848  time: 160939
     }
 
-    @Test
     public void test3() {
         //Java 8 并行流的实现
         long l = System.currentTimeMillis();

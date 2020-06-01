@@ -22,6 +22,9 @@ package com.design.strategy;
  *       用一个ConcreteStrategy对象来配置。
  *       维护一个对Strategy对象的引用。
  *       可定义一个接口来让Stategy访问它的数据。
+ *
+ *
+ *       分离算法，选择实现
  */
 public class Test {
 
