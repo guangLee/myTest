@@ -30,11 +30,6 @@ public class MyTest {
 
     public static void main(String[] args) {
 
-        String url = "http://10.14.122.78:9280/ibpm/platform/bpm/task/toStart.ht?taskId=10000088540070";
-        url = url.replace("http://", "");
-        url = url.substring(url.indexOf("/"), url.length());
-        System.out.println(url);
-
 //        List<com.lombok.User> list = new ArrayList<>();
 //        list.add(new com.lombok.User(1, 1));
 //        list.add(new com.lombok.User(1, 2));
